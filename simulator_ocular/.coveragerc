@@ -1,0 +1,7 @@
+[run]
+source = ocular_simulator
+[report]
+omit = 
+    */ocular/*
+    */odds/*
+    */dowhy/*

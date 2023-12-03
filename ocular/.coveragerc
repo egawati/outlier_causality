@@ -1,0 +1,7 @@
+[run]
+source = ocular
+[report]
+omit = 
+    */odds/*
+    */dowhy/*
+    */tests/*

@@ -1,0 +1,8 @@
+[run]
+source = gcm_simulator
+[report]
+omit = 
+    */ocular/*
+    */ocular_simulator/*
+    */odds/*
+    */dowhy/*

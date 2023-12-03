@@ -1,0 +1,9 @@
+{
+    "accuracy_metrics": {
+        "f1": 0.6117647058823529,
+        "precision": 0.46017699115044247,
+        "recall": 0.9122807017543859
+    },
+    "run_time": 347.620465706,
+    "average_explanation_time": 1.1128910359166682
+}

@@ -1,0 +1,9 @@
+{
+    "root_cause": [
+        "X5", "X2"
+    ],
+    "outlier_index": [
+        1, 16
+    ],
+    "run_time": 10
+}

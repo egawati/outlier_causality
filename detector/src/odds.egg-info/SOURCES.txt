@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/odds/__init__.py
+src/odds/labeled_data.py
+src/odds.egg-info/PKG-INFO
+src/odds.egg-info/SOURCES.txt
+src/odds.egg-info/dependency_links.txt
+src/odds.egg-info/top_level.txt
+tests/test_labeled_data.py

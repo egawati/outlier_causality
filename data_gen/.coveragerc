@@ -1,0 +1,6 @@
+[run]
+omit =
+    */ocular/*
+    */ocular_simulator/*
+    */odds/*
+    */gcm_simulator/*

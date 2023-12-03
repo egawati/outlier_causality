@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: causal-gen
+Version: 0.0.1
+Summary: Causality Dataset Generation
+Author-email: Egawati Panjei <egawati.panjei@ou.edu>
+Project-URL: Homepage, https://github.com/egawati/
+Project-URL: Bug Tracker, https://github.com/egawati/
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+## Dataset Generation
+
+Generate dataset with causality
+
+To install the package

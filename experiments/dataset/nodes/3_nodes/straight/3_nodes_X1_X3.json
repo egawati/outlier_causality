@@ -1,0 +1,1 @@
+{"target_node": "X3", "nodes": ["X1", "X2", "X3"], "edges": [["X1", "X2"], ["X2", "X3"]], "root_causes": "X1"}

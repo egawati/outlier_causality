@@ -21,4 +21,4 @@ pip install -e .
 
 
 ## Experiments
-The modules to run experiments are located under experiments folder
+The modules to run experiments are located under `experiments` folder

@@ -21,4 +21,11 @@ pip install -e .
 
 
 ## Experiments
-The modules to run experiments are located under `experiments` folder
+The datasets and modules to simulate them as data streams are in the `experiments` folder.
+The simulation can be run after the packages are installed. 
+For example, to run the simulation on varying the number of vertices on the Synthetic datasets with Ocular do the following:
+```
+cd experiments/ocular
+python3 nodes.py
+```
+

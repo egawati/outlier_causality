@@ -29,6 +29,8 @@ cd ../metrics
 pip install -e .
 cd ../metrics
 pip install -e .
+cd ../simulator_ocular
+pip install -e .
 cd ../simulator_cloudranger
 pip install -e .
 cd ../simulator_dycause
@@ -36,8 +38,6 @@ pip install -e .
 cd ../simulator_easyrca
 pip install -e .
 cd ../simulator_gcm
-pip install -e .
-cd ../simulator_ocular
 pip install -e .
 ```
 

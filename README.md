@@ -10,6 +10,8 @@ We suggest to create a virtual environment to install the packages in this repos
 
 Create a virtual environment using Conda:
 ```
+conda config --add channels conda-forge
+conda update -n base -c defaults conda
 conda create --name outlier_causality --file environment.yml	
 ```
 

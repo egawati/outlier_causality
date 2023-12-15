@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: EasyRCA
+Version: 1.0.0.dev0
+Summary: Root causes analysis
+Home-page: https://github.com/ckassaad/EasyRCA
+Author: C. K. Assaad
+License: Apache
+Keywords: Base
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+
+UNKNOWN
+

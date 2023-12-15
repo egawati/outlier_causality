@@ -12,17 +12,21 @@ Create a virtual environment using Conda:
 ```
 conda config --add channels conda-forge
 conda update -n base -c defaults conda
-conda create --name outlier_causality --file environment.yml	
+conda create --name outlier_causality python=3.8
 ```
 
-To Install Ocular:
+First, let's install the base packages in Dev mode
 ```
-cd ocular
+cd bases/dowhy
 pip install -e . 
-
+cd ../EasyRCA
+pip install -e .
 ```
+
 Installing the rest of the packages
 ```
+cd ../../ocular
+pip install -e . 
 cd ../detector/
 pip install -e .
 cd ../metrics
